@@ -1,0 +1,19 @@
+body {
+  font-family: 'Alegreya', serif;
+  background-image: url('assets/60435_bubble-background-png.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container {
+  margin-left: 150px;
+  padding: 20;
+  border: 1px solid lightgrey;
+  border-radius: 3%;
+  width: 500px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 70%);
+}
+.bold {
+  font-weight: bold;
+  font-size: larger
+}

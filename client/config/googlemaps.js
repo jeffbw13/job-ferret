@@ -1,0 +1,2 @@
+var GOOGLEMAPS_API_KEY = 'AIzaSyBsZfAbmKwf4WjVTnBM0t4vFngiww1g2LI';
+export default GOOGLEMAPS_API_KEY;

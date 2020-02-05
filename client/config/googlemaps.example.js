@@ -1,0 +1,2 @@
+var GOOGLEMAPS_API_KEY = 'KEY GO HERE';
+export default GOOGLEMAPS_API_KEY;
